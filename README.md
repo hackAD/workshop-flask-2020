@@ -33,6 +33,10 @@ Password = "your-password"
 ```
 Once this is set up, you should be able to send out emails by calling the function defined in `utils/mailing.py`. 
 
+### How to run?
+To run the app, first navigate into the root directory for the repository, then type`export FLASK_APP=main-app.py` if on linux/mac, or if on windows - type in `set FLASK_APP=hello.py` after you navigate into the right directory. 
+To run, type `flask run` and all should work! You can read more about this process in detail over [here](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
+
 ### Thank you!
 Thank you for reading this. For more, refer to [flask documentation](https://flask.palletsprojects.com/en/1.1.x/), and if you still have questions, do not hesitate to reach out. Cheers!
 
