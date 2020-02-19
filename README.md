@@ -16,6 +16,7 @@ Flask is a micropython framework commonly used to make web-apps. You can read mo
 - **Templates**: Flask uses HTML templates alongside a template engine known as Jinja. The workshop did not go over rendering templates with varaibles. Read more [here](https://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates)
 - **`request`**: The posted form data can be accessed using the `request` object. `request.form` is an Immutable Dictionary with the form data. 
 - **Static Files**: To serve static files, such as stylesheets, js files or images and other content, we store the files in the `static` directory. To access these files, use the `url_for()` method as described [here](https://flask.palletsprojects.com/en/1.1.x/quickstart/#static-files)
+
 Note: In this project, we have created a `utils` directory where the mailing script resides. 
 
 ### Client-Server Architecure
