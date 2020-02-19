@@ -1,8 +1,8 @@
 # Flask Workshop 
-This repository contains files that were created during a workshop by hackAD given on February 16, 2020 by [Nav](github.com/navyasuri). 
+This repository contains files that were created during a workshop by hackAD given on February 16, 2020 by [Nav](https://www.github.com/navyasuri). 
 
 ### Setup and Boilerplate
-The workshop code used [this boilerplate]() for Flask - a very barebones boilerplate that only provides a basic file structure. Feel free to use both the boilerplate and the current project to experiment with Flask
+The workshop code used [this boilerplate](https://github.com/navyasuri/flask-boilerplate) for Flask - a very barebones boilerplate that only provides a basic file structure. Feel free to use both the boilerplate and the current project to experiment with Flask
 
 ### Goal of the Project
 The project serves as a very simple demonstration into how the Flask framework operates. Since the workshops was intended for beginners who are primarily new to web development, the project setup and working is rather simple. The project takes in grades in the form of decimals in a `<textarea>` element and the user's email. The user posts this data to the server, where it is processed and a grade report (an average grade) is sent to the user's email. 
